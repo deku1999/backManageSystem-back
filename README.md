@@ -1,6 +1,6 @@
 ## 环境要求
 
-**mongodb，node**
+**mysql，node**
 
 联系方式:
 
